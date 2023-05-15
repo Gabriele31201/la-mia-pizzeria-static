@@ -16,3 +16,11 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.fs_large{
+    font-size: 40px;
+}
+
+.bg_navbar{
+    background-color: black
+}
